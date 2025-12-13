@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/Nan-il/NiagaraLauncherLogo/LogoWithoutShadow.svg" alt="logo" />
+  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/Nan-il/NiagaraLauncherLogo/main/LogoWithoutShadow.svg" alt="logo" />
 
   <h1 align="center">Niagara Launcher Pro Modified</h1>
 
@@ -22,7 +22,7 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，�
 
 ## 下载（Releases）
 
-<a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/assets/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>
+<a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>
 
 ## 安装
 

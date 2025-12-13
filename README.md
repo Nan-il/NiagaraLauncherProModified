@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/Nan-il/NiagaraLauncherLogo/main/LogoWithoutShadow.svg" alt="logo" />
+  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/Nan-il/NiagaraLauncherLogo/main/Logo/LogoWithoutShadow.svg" alt="logo" />
 
   <h1 align="center">Niagara Launcher Pro Modified</h1>
 

@@ -10,6 +10,14 @@
 
 ---
 
+## 新版本
+
+上游 Niagara Launcher 已发布新版本1.15.7。本仓库将在1月9日发布新版本更新。
+
+另：新年快乐！
+
+---
+
 ## 项目说明
 
 Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，仅供学习研究使用的分支项目，移除了对 Niagara Pro 的付费检测。

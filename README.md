@@ -20,6 +20,31 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，�
 
 有条件的用户请移步原项目以支持其开发，这是其 Repo：[Niagara Launcher/Niagara-Issues](https://github.com/NiagaraLauncher/Niagara-Issues)。
 
+## 更新相关
+
+### 没有功能变化的版本将不再提供
+
+原项目发布更新（Release）可分为三类，即：
+
+ - 功能型更新：通常有新增功能，一般跨大版本号，且由更新的内容命名，如 [v1.15.0 Artistic Update](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.0)
+   - 当然也有例外，即标记为“Minor Patch”但含有新增功能的更新，如 [v1.15.8 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.8)
+ - 修复型更新：通常包含对bug的修复，包括含“Stability”或“Hotfix”的更新和带有“Fix”部分的“Minor Patch”更新，如 [v1.14.12 Stability Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.14.12) [v1.15.6 Hotfix](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.6) [v1.15.9 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9)
+ - 小更新：通常不增减功能（只增添新的翻译），如 [v1.15.10 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.10)
+
+因此，从 v1.15.10 版本起，本项目将仅提供前两种更新的版本，而小更新的版本则不再提供——它们对代码的研究学习没有意义。
+
+不提供的版本将以 Pre-Release 的形式显示在 Releases 页面，并在说明中提供指向最新可用的版本的链接；
+
+在下一个可用的版本发布之前，不提供的版本不会在 Releases 页面显示。
+
+（当然作者漏掉的版本也会被跳过而不再提供，见下一节“催促更新”）
+
+### 催促更新
+
+有的时候作者可能会十天半个月不看 GitHub ，所以会漏掉原项目的更新（如 [v1.15.9](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9) orz）……
+
+要催促作者更新，请发送电子邮件到：nan-il@outlook.com 。
+
 ## 下载（Releases）
 
 <a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>

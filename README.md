@@ -12,7 +12,7 @@
 
 ## 项目说明
 
-Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，仅供学习研究使用的分支项目，移除了对 Niagara Pro 的付费检测。
+Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改、仅供学习研究使用的分支项目，其移除了对 Niagara Pro 的付费检测。
 
 使用此项目的版本，你可以免费使用 Niagara Pro 的专属功能。
 
@@ -22,16 +22,16 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，�
 
 ## 更新相关
 
-### 没有功能变化的版本将不再提供
+### 没有功能变化的版本将不会被提供
 
 原项目发布更新（Release）可分为三类，即：
 
  - 功能型更新：通常有新增功能，一般跨大版本号，且由更新的内容命名，如 [v1.15.0 Artistic Update](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.0)
-   - 当然也有例外，即标记为“Minor Patch”但含有新增功能的更新，如 [v1.15.8 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.8)
- - 修复型更新：通常包含对bug的修复，包括含“Stability”或“Hotfix”的更新和带有“Fix”部分的“Minor Patch”更新，如 [v1.14.12 Stability Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.14.12) [v1.15.6 Hotfix](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.6) [v1.15.9 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9)
+   - 当然也有例外，即标记为“Minor Patch”但含有新增功能的更新，如 [v1.15.12 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.12)
+ - 修复型更新：通常包含对bug的修复，包括含“Stability”或“Hotfix”的更新和带有“Fix”部分（或者有修复相关内容）的“Minor Patch”更新，如 [v1.14.12 Stability Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.14.12) [v1.15.6 Hotfix](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.6) [v1.15.9 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9) [v1.15.13](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.13)
  - 小更新：通常不增减功能（只增添新的翻译），如 [v1.15.10 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.10)
 
-因此，从 v1.15.10 版本起，本项目将仅提供前两种更新的版本，而小更新的版本则不再提供——它们对代码的研究学习没有意义。
+因此，从 v1.15.10 版本起，本项目将仅提供前两种更新的版本，而小更新的版本则一定不会被提供——它们对代码的研究学习没有意义。
 
 不提供的版本将以 Pre-Release 的形式显示在 Releases 页面，并在说明中提供指向最新可用的版本的链接；
 
@@ -87,7 +87,7 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改，�
 
 原项目 [NiagaraLauncher](https://github.com/NiagaraLauncher/Niagara-Issues) 不是开源软件，所有权利归开发者所有；
 
-本项目 ‘NiagaraLauncherProModified’ 作为其分支亦没有许可证，且本项目作者对因使用项目而造成的影响概不负责。
+本项目 ‘NiagaraLauncherProModified’ 作为其分支亦没有许可证，且本项目作者对因使用此项目而造成的影响概不负责。
 
 ## 开发者
 

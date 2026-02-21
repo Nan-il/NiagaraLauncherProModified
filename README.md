@@ -28,7 +28,7 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改、�
 
  - 功能型更新：通常有新增功能，一般跨大版本号，且由更新的内容命名，如 [v1.15.0 Artistic Update](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.0)
    - 当然也有例外，即标记为“Minor Patch”但含有新增功能的更新，如 [v1.15.12 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.12)
- - 修复型更新：通常包含对bug的修复，包括含“Stability”或“Hotfix”的更新和带有“Fix”部分（或者有修复相关内容）的“Minor Patch”更新，如 [v1.14.12 Stability Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.14.12) [v1.15.6 Hotfix](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.6) [v1.15.9 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9) [v1.15.13](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.13)
+ - 修复型更新：通常包含对bug的修复，包括含“Stability”或“Hotfix”的更新和带有“Fix”部分（或者有修复相关内容）的“Minor Patch”更新，如 [v1.14.12 Stability Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.14.12) [v1.15.6 Hotfix](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.6) [v1.15.9 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.9) [v1.15.13 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.13)
  - 小更新：通常不增减功能（只增添新的翻译），如 [v1.15.10 Minor Patch](https://github.com/NiagaraLauncher/Niagara-Issues/releases/tag/v1.15.10)
 
 因此，从 v1.15.10 版本起，本项目将仅提供前两种更新的版本，而小更新的版本则一定不会被提供——它们对代码的研究学习没有意义。

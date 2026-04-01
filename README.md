@@ -26,6 +26,12 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改、�
 
 若要催促作者更新，请发送电子邮件到：nan-il@outlook.com 。
 
+### 被跳过的版本
+
+被跳过的版本将以 Pre-Release 的形式显示在 Releases 页面，并在说明中提供指向最新可用的版本的链接；
+
+在下一个可用的版本发布之前，不提供的版本不会在 Releases 页面显示。
+
 ## 下载（Releases）
 
 <a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>

@@ -22,7 +22,9 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改、�
 
 ## 更新
 
-作者最近一段时间比较忙，可能会漏掉原项目的更新。
+作者很懒，可能会漏掉/无视原项目的更新。
+
+一般地，原项目每周发布一次更新，因此本项目大概每2周/每月发布一次更新。
 
 若要催促作者更新，请发送电子邮件到：nan-il@outlook.com 。
 
@@ -34,7 +36,9 @@ Niagara Launcher Pro Modified 是一个基于 Niagara Launcher 进行修改、�
 
 ## 下载（Releases）
 
-<a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>
+<a href="https://github.com/Nan-il/NiagaraLauncherProModified/releases/latest"><img src="https://raw.githubusercontent.com/Nan-il/get-it-on-github/main/get-it-on-github.svg" alt="Download from GitHub releases" width="32%" /></a>
+
+正在使用 Android 5-7？[下载旧版](https://github.com/Nan-il/NiagaraLauncherProModified/releases/tag/v1.16.14)
 
 ## 安装
 
